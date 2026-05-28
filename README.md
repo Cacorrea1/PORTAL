@@ -39,12 +39,6 @@ alumno-portal-ui/
     └── umet-logo.png   # Logo oficial UMET
 ```
 
-## Usuario de prueba
-
-| Campo | Valor |
-|---|---|
-| Correo | `helen.andino@est.umet.edu.ec` |
-| Contraseña | `Umet2026!` |
 
 También puedes usar **Ingresar como invitado** en el login.
 
